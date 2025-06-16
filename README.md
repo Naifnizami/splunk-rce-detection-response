@@ -39,7 +39,7 @@ This lab simulates a full cybersecurity workflow: from web app exploitation to a
 | `shell.php` | Web shell endpoint |
 | `alert_handler.py` | Splunk script → sends webhook + Discord alert |
 | `blocker.py` | Flask listener → triggers `iptables` block |
-| `vulnapp_schema.sql` | (Optional) DB schema dump |
+| `vulnapp_schema.sql` | DB schema dump |
 
 ---
 
